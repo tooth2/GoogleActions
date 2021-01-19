@@ -1,2 +1,2 @@
-# idrift_Android
-08723 course application for Android developers
+# Google Actions
+08723 course application for Google Actions/Android developers
