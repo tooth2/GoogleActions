@@ -1,0 +1,66 @@
+[
+    {
+      "category": "sleep schedule",
+      "url": "https:\/\/www.youtube.com\/watch?v=fk-_SwHhLLc&ab_channel=TherapyinaNutshel",
+      "tip": "Early studies on circadian rhythm showed that our internal clocks run on a 25-hour period when isolated from external stimuli like daylight and timekeeping. Solution: free-running sleep with 27-hour days. Studies show that free-running sleepers experience a 10-15% boost in creativity compared to those who use an alarm clock.",
+      "created_at": "2017-12-25T08:00:00.000Z"
+    },
+    {
+      "category": "sleep schedule",
+      "url": "https:\/\/www.youtube.com\/watch?v=fk-_SwHhLLc&ab_channel=TherapyinaNutshel",
+      "timestamp": "2017-12-21T08:00:00.000Z",
+      "tip": "It only takes 1 day of sleeping in to push our clocks forward by 3 hours, but it takes 3 days of waking up early to reset it to normal. This is why some have adopted the 28-hour day."
+    },
+    {
+      "category": "sleep pattern",	
+      "tip": "Sleep patterns defined by more than one sleeping episode every 24h period are called polyphasic sleep ",
+      "created_at": "2017-12-19T08:00:00.000Z",
+      "url": "https:\/\/www.youtube.com\/watch?v=fk-_SwHhLLc&ab_channel=TherapyinaNutshel"
+    },
+    {
+      "tip": "A sleep log might seem a bit overwhelming, but it’s a worthwhile time investment for geeky lifestyle hackers. Would you want to try SleepTracker app which can upload sleep data gathered from your smart watch?",
+      "created_at": "2017-12-17T08:00:00.000Z",
+      "category": "sleep gadget",
+      "url": "https:\/\/play.google.com\/store\/apps"
+    },
+    {
+      "category": "sleep programming",
+      "url": "https:\/\/www.youtube.com\/watch?v=fk-_SwHhLLc&ab_channel=TherapyinaNutshel",
+      "tip": "All subjects reported that every time they reduced sleep by 30m the first 7-10 days were difficult. But after 7-10 days their energy levels clicked. Programming new sleep habits can be difficult",
+      "created_at": "2017-12-13T08:00:00.000Z"
+    },
+    {
+      "category": "sleep insomnia",
+      "url": "https:\/\/www.sleepapnea.com\/diagnosis\/about-sleep-apnea",
+      "tip": "A melatonin supplement is an extremely popular aid to fall asleep faster and improve sleep quality. In one study, 2 mg of melatonin before bed improved sleep quality and energy the next day, and helped people fall asleep faster.",
+      "created_at": "2017-12-11T08:00:00.000Z"
+    },
+    {
+      "category": "sleep apnea symptoms"
+      "url": "https:\/\/www.sleepapnea.com\/diagnosis\/about-sleep-apnea",
+      "tip": "Sleep apnea is a common sleep disorder characterized by repeated interruptions in breathing throughout the sleep cycle",
+      "created_at": "2017-12-09T08:00:00.000Z"
+    },
+
+    {
+      "tip": "Use sleep sound to make you fall asleep : We have rain sound, cat purring, and white noise sound. Would you want to hear car purring sound?",
+      "created_at": "2017-12-08T08:00:00.000Z",
+      "category": "sleep gadget",
+      "url": "https:\/\/assistant.google.com\/"
+    },
+   
+    {
+      "category": "sleep gadget",
+      "url": "https:\/\/assistant.google.com\/",
+      "tip": "You'd better sleep in cold. Do you want to adjust room thermostat?",
+      "created_at": "2017-12-02T08:00:00.000Z"
+    },
+   
+    {
+      "category": "sleep gadget",
+      "url": "https:\/\/assistant.google.com\/",
+      "tip": "You might want to dim the light or sleep in darkness: Would you want me to dim the Smart Bulb?",
+      "created_at": "2017-12-02T08:00:00.000Z"
+    }
+
+  ]
