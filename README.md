@@ -34,8 +34,7 @@ For more detailed information on deployment, see the
 
 ## References
 * [Actions on Google documentation](https://developers.google.com/assistant/)
- *[Smart Home SDK](https://developers.google.com/assistant/smarthome/concepts/local)
-* Questions are answered on [StackOverflow](https://stackoverflow.com/questions/tagged/actions-on-google).
+* [Smart Home SDK](https://developers.google.com/assistant/smarthome/concepts/local)
 
 
 
