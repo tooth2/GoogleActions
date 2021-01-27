@@ -30,7 +30,7 @@ This example app shows how to get a better quality of sleeping tips using Action
 1. To test daily updates, choose a category. After the tip, the app will show a suggestion chip to subscribe for daily updates.
 1. To test push notifications, choose to hear the latest tip. After the tip, the app will show a suggestion chip to subscribe for push notifications. Add a new tip to the Firestore DB to trigger a notification to the subscribed users.
 
-For more detailed information on deployment, see the
+For more detailed information on deployment, see the reference url.
 
 ## References
 * [Actions on Google documentation](https://developers.google.com/assistant/)
